@@ -229,6 +229,8 @@ header.masthead p {
   display: block;
   max-width: 650px;
   margin: 0 auto;
+  height: 226px;
+  overflow: hidden;
 }
 
 .portfolio-box .portfolio-box-caption {
