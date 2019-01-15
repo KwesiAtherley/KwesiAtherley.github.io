@@ -108,7 +108,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #01224d
+  color: rgba(1, 18, 1, .7)
 }
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
@@ -143,7 +143,7 @@ img::-moz-selection {
   }
 
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: #fff
+    color: rgba(1, 18, 1, .7)
   }
 
   #mainNav .navbar-nav>li.nav-item>a.nav-link {
@@ -155,7 +155,7 @@ img::-moz-selection {
   }
 
   #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
-    color: #fff
+    color: rgba(1, 18, 1, .7)
   }
 
   #mainNav.navbar-shrink {
@@ -175,7 +175,8 @@ img::-moz-selection {
     color: #032e02
   }
 
-  #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover {
+  #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:
+, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover {
     color: #01224d
   }
 }
