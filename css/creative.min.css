@@ -92,6 +92,10 @@ img::-moz-selection {
   color: #032e02;
 }
 
+.one-time {
+  padding-bottom: 20px; 
+}
+
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, .1);
   background-color: white;
